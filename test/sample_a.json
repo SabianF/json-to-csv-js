@@ -1,0 +1,24 @@
+[
+  {
+    "name": "James",
+    "email": "james@email.com",
+    "title": "Boss"
+  },
+  {
+    "name": "Stephanie",
+    "title": "Big boss"
+  },
+  {
+    "name": "Johnson",
+    "email": "johnson@email.com",
+    "title": "Rando",
+    "id": 420.69
+  },
+  {
+    "title": "No one"
+  },
+  {
+    "random": "asdolckioruvh",
+    "id": 0.0
+  }
+]

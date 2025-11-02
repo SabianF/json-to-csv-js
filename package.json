@@ -1,0 +1,15 @@
+{
+  "name": "json-to-csv-js",
+  "version": "1.0.0",
+  "description": "",
+  "license": "MIT",
+  "author": "Sabian Finogwar",
+  "type": "module",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node ./test/test_samples.js"
+  }
+}
