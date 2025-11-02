@@ -1,7 +1,7 @@
 {
   "name": "json-to-csv-js",
   "version": "1.0.0",
-  "description": "",
+  "description": "A tool to convert JSON files into CSV files",
   "license": "MIT",
   "author": "Sabian Finogwar",
   "type": "module",
