@@ -12,3 +12,23 @@ convertJsonToCsv(
   "path/to/output.csv",
 );
 ```
+
+## Requirements
+
+Input JSON must be an array of non-nested objects
+
+```json
+[
+  {
+    "name": "John",
+    "email": "john@mail.com",
+  },
+  {
+    "id": 1
+  },
+  {
+    "random": "asdlkfhjsalkfj",
+    "milk": "So Nice"
+  },
+]
+```
